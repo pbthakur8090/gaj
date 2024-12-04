@@ -1,0 +1,76 @@
+body {
+
+    border:pink;
+   
+background-color: brown;
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+}
+
+
+#gay {
+    
+margin-left: 150px;
+color:white;
+
+display:inline-block;
+position:fixed;
+top:0;
+left:0;
+width:20px;
+padding-top: 100px;
+
+font-size: 10px;
+}
+
+#lol {
+
+    width:100px;
+    height:200px;
+    position:fixed;
+    top:0;
+    left:0;
+    padding-top: 100px;
+
+
+}
+
+
+#gol {
+
+    position:fixed;
+    bottom:0;
+  padding-left: 100px;
+  width:100px;
+  height:200px;
+
+
+}
+
+#noi {
+
+    position:fixed;
+    bottom:0;
+
+   color:white; 
+   width:50px;
+
+   font-size: 10px;
+   
+}
+
+#ml {
+
+    width:180px;
+    height:180px;
+    padding-top: 180px;
+}
+
+
+#fuck {
+
+    font-size:20px;
+    padding-left: 210px;
+    padding-bottom: 1600px;
+}
